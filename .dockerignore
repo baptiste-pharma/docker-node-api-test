@@ -1,0 +1,7 @@
+# git and github files
+.git
+.github
+README.md
+
+# other
+node_modules
